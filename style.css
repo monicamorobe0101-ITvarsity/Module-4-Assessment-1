@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.left-column{
+    width: 50%;
+    float: right;
+    background-color: pink;
+    margin-right: 0;
+}
+.left-column img{
+    width: 160px;
+    height: 180px;
+}
+
+#right-column img{
+    width: 230px;
+    height: 530px;
+    margin-top: 0;
+    left: 50px;
+    position: fixed;
+}
+
+#dress{
+    height: 210px;
+}
+
+#dress1{
+    height: 210px;
+    width: 180px;
+}
+
+#dress2{
+    width: 130px;
+    height: 120px;
+}
+
+#dress3{
+    width: 120px;
+    height: 100px;
+}
+
+#dress4{
+    width: 130px;
+    height: 250px;    
+}
+
+#dress5{
+    width: 150px;
+    height: 120px;
+}
+
+#dress6{
+    width: 300px;
+    height: 220px;
+}
+
+#dress7{
+    width: 50px;
+    height: 40px;
+}
+
+#dress8{
+    width: 60px;
+    height: 30px;
+}
+
+#dress9{
+    width: 80px;
+    height: 80px;
+}
+
+#dress10{
+    width: 130px;
+    height: 150px;
+}
+
+
+img#logo{
+    position: fixed;
+    width: 150px;
+    top: 10px;
+    right: 550px;
+}
