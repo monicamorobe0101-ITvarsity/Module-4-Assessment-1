@@ -21,7 +21,7 @@ body{
     height: 530px;
     margin-top: 0;
     left: 50px;
-    position: fixed;
+    position: absolute;
 }
 
 #dress{
@@ -83,5 +83,5 @@ img#logo{
     position: fixed;
     width: 150px;
     top: 10px;
-    right: 550px;
+    right: 650px;
 }
